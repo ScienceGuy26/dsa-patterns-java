@@ -32,3 +32,7 @@ bin/
 .idea/
 *.iml
 out/
+
+# Add these lines to .gitignore
+src/Two_Pointers_Problem_Set/Triplet_Sum_TwoPointers.java
+src/Two_Pointers_Problem_Set/isPalindromeValid.java
